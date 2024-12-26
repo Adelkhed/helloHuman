@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 
-
+// method with default /required
 //public class HumanController {
 //	@RequestMapping("/")
 //	public String helloHuman(@RequestParam(value = "name", required = false) String name,
